@@ -15,6 +15,4 @@
         android:layout_height="0dp"
         android:layout_weight="1"
         tools:layout="@layout/fragment_data" />
-
 </LinearLayout>
-

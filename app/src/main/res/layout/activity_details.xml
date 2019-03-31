@@ -5,16 +5,16 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context=".Activities.MainActivity">
-
+    tools:context=".Activities.DetailsActivity">
 
     <fragment
-        android:name="dmorenoar.uoc.fragments.Fragments.DataFragment"
-        android:id="@+id/dataFragment"
+        android:name="dmorenoar.uoc.fragments.Fragments.DetailsFragment"
+        android:id="@+id/detailsFragment"
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="1"
-        tools:layout="@layout/fragment_data" />
+        tools:layout="@layout/fragment_details"
+
+        />
 
 </LinearLayout>
-

@@ -1,4 +1,4 @@
-package dmorenoar.uoc.fragments;
+package dmorenoar.uoc.fragments.Fragments;
 
 
 import android.os.Bundle;
@@ -9,6 +9,8 @@ import android.view.ViewGroup;
 import android.widget.TextView;
 
 import org.w3c.dom.Text;
+
+import dmorenoar.uoc.fragments.R;
 
 
 /**
